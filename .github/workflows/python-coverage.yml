@@ -1,3 +1,4 @@
+# Report test coverage for pull requests targeting main.
 name: Python Coverage
 
 on:
